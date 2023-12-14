@@ -5,7 +5,7 @@
 - **Meharaz Hossain C211019**
 
 Welcome to our e-commerce project repository! 🚀 This project is built using HTML, CSS, JavaScript, React, Vite, React Router, and Firebase.
-Click Here to see https://ecommerce-react-js-5b18d.web.app/ <a href="https://imgbb.com/"><img src="https://i.ibb.co/GRFLsmH/logo1.png" alt="logo1" border="0"></a>
+-Click Here to see https://ecommerce-react-js-5b18d.web.app/ <a href="https://imgbb.com/"><img src="https://i.ibb.co/GRFLsmH/logo1.png" alt="logo1" border="0"></a>
 
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5"/> 
