@@ -18,7 +18,7 @@ Click Here to see https://ecommerce-react-js-5b18d.web.app/ <a href="https://img
 
 
 <div align="center">
-<a href="https://ibb.co/McKkWv9"><img src="https://i.ibb.co/2vR3m95/Screenshot-96.png" alt="Screenshot-96" border="0"></a><br /><a target='_blank' href='https://dedupelist.com/'>ECOMART HOME PAGE</a><br />
+<a href="https://ibb.co/McKkWv9"><img src="https://i.ibb.co/2vR3m95/Screenshot-96.png" alt="Screenshot-96" border="0"></a><br /><a target='_blank' href='https://ecommerce-react-js-5b18d.web.app/'>ECOMART HOME PAGE</a><br />
 </div>
 
 ## Features
