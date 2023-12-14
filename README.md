@@ -1,7 +1,7 @@
-# E-Commerce Project - "ECOMART" Created By IIUC_DWIP_ELITE
---> Md. Anamul Haque C211001
---> Hossain Mohammad Meraj C211002
---> Meharaz Hossain C211019
+# E-Commerce Project - "**ECOMART**" Created By **IIUC_DWIP_ELITE**
+- **Md. Anamul Haque C211001**
+- **Hossain Mohammad Meraj C211002**
+- **Meharaz Hossain C211019**
 
 Welcome to our e-commerce project repository! 🚀 This project is built using HTML, CSS, JavaScript, React, Vite, React Router, and Firebase.
 Click Here to see https://ecommerce-react-js-5b18d.web.app/
@@ -11,8 +11,8 @@ Click Here to see https://ecommerce-react-js-5b18d.web.app/
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
   <img src="https://img.icons8.com/office/48/000000/react.png" alt="React" title="React"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase"/>
   <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" title="Vite"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase"/>
 </div>
 
 ## Features
