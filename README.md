@@ -1,4 +1,7 @@
-# E-Commerce Project - "ECOMART"  Created By IIUC_DWIP_ELITE(Md. Anamul Haque,Hossain Mohammad Meraj,Meharaz Hossain)
+# E-Commerce Project - "ECOMART" Created By IIUC_DWIP_ELITE
+--> Md. Anamul Haque C211001
+--> Hossain Mohammad Meraj C211002
+--> Meharaz Hossain C211019
 
 Welcome to our e-commerce project repository! 🚀 This project is built using HTML, CSS, JavaScript, React, Vite, React Router, and Firebase.
 <div align="center">
@@ -22,7 +25,7 @@ Welcome to our e-commerce project repository! 🚀 This project is built using H
 ## How to Use
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/e-commerce-project.git
+   git clone https://github.com/Anamulc211001/E-commerce-react-Project.git
 2. cd e-commerce-project
 3. npm install
 4. npm run dev
