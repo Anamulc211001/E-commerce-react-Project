@@ -1,10 +1,11 @@
-# E-Commerce Project - "**ECOMART**" Created By **IIUC_DWIP_ELITE**
+# E-Commerce Project - "**ECOMART**" 
+--> Created By **IIUC_DWIP_ELITE** -->
 - **Md. Anamul Haque C211001**
 - **Hossain Mohammad Meraj C211002**
 - **Meharaz Hossain C211019**
 
 Welcome to our e-commerce project repository! 🚀 This project is built using HTML, CSS, JavaScript, React, Vite, React Router, and Firebase.
-Click Here to see https://ecommerce-react-js-5b18d.web.app/
+Click Here to see https://ecommerce-react-js-5b18d.web.app/ <a href="https://imgbb.com/"><img src="https://i.ibb.co/GRFLsmH/logo1.png" alt="logo1" border="0"></a>
 
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5"/> 
@@ -15,8 +16,12 @@ Click Here to see https://ecommerce-react-js-5b18d.web.app/
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase"/>
 </div>
 
-## Features
 
+<div align="center">
+<a href="https://ibb.co/McKkWv9"><img src="https://i.ibb.co/2vR3m95/Screenshot-96.png" alt="Screenshot-96" border="0"></a><br /><a target='_blank' href='https://dedupelist.com/'>ECOMART HOME PAGE</a><br />
+</div>
+
+## Features
 - **Responsive Design:** Ensuring a seamless shopping experience across various devices.
 - **Dynamic UI with React:** Leveraging the power of React to create interactive and dynamic user interfaces.
 - **Fast Development with Vite:** Utilizing Vite for a lightning-fast development experience.
